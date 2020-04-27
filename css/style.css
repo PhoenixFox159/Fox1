@@ -155,7 +155,7 @@ body {
     left: 380px;
     width: 653px;
     height: 451px;
-    background-image: url(/img/fone.png);
+    background-image: url("../img/fone.png");
     background-repeat: no-repeat;
     z-index: -1;
     }
