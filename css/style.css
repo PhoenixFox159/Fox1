@@ -287,16 +287,16 @@ body {
     float:left;
     }
     
-      .features-icon-schedule{
-    background:#f0f0f0 url("../img/icon\ adv\ 1.png") no-repeat 50% 0;
+    .features-icon-schedule{
+    background:#f0f0f0 url("/img/icon1.png") no-repeat 50% 0;
     }
     
     .features-icon-practice{
-    background:#f0f0f0 url("../img/icon\ adv\ 2.png") no-repeat 50% 0;
+    background:#f0f0f0 url("/img/icon2.png") no-repeat 50% 0;
     }
     
     .features-icon-work{
-    background:#f0f0f0 url("../img/icon\ adv\ 3.png") no-repeat 50% 0;
+    background:#f0f0f0 url("/img/icon3.png") no-repeat 50% 0;
     }
     
     .features-title{
